@@ -1,0 +1,19 @@
+What bugs and conceptual difficulties did you encounter? How did you overcome them? What did you learn?
+    The main bug I encountered was that my code would run infinitely. Turns out, I was checking the same couple
+    nodes every single time, resulting in infinite debugging messages and no results. I had to add a tracker to
+    store all the nodes I had already checked.
+Describe whatever help (if any) that you received. Don’t include readings, lectures, and exercises,
+but do include any help from other sources, such as websites or people (including classmates and friends)
+and attribute them by name.
+    I had to resort to stack overflow for help overriding the equals() function. Here is the link I used
+    https://stackoverflow.com/questions/6364258/override-equals-method
+
+Describe any serious problems you encountered while writing the program.
+    I didnt encounter any serious problems, rather smaller syntax and conceptual errors.
+
+What did you use for your Part B heuristic?
+    I used a straight line heuristic to avoid overestimation.
+
+List any other feedback you have. Feel free to provide any feedback on how much you learned from doing the
+assignment, and whether you enjoyed doing it.
+    I liked the real world application aspect of this project.
